@@ -1,0 +1,13 @@
+IAM
+
+Users- 
+1. Passwords
+2. MFA
+3. Add Permissions 
+- Policy eg. AdministratorAccess
+- Inline Policy (Specific to one user)
+
+Groups
+Roles
+Policies
+Access Analyzer
